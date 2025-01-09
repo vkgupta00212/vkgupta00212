@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Here’s a GitHub bio for you in the requested format:<br><br>👋 Hey, I'm Vishal Gupta!<br><br>💻 I am currently working on Museum Connect, a project integrating 3D maps with Leaflet & Three.js<br>.<br>🤝 I’m looking to collaborate on full-stack web development and innovative tech solutions.<br><br>❓ I’m looking for help with optimizing interactive 3D applications and complex CSS layouts.<br><br>📚 I’m currently learning Three.js, API integrations, and advanced React techniques.<br><br>💬 Ask me about Java, React, Node.js, or my Social Sync Android project.<br><br>🎉 Fun fact: I love playing cricket, exploring new places, and binge-watching movies!<br><br>
+<br>👋 Hey, I'm Vishal Gupta!<br><br>💻 I am currently working on Museum Connect, a project integrating 3D maps with Leaflet & Three.js<br>.<br>🤝 I’m looking to collaborate on full-stack web development and innovative tech solutions.<br><br>❓ I’m looking for help with optimizing interactive 3D applications and complex CSS layouts.<br><br>📚 I’m currently learning Three.js, API integrations, and advanced React techniques.<br><br>💬 Ask me about Java, React, Node.js, or my Social Sync Android project.<br><br>🎉 Fun fact: I love playing cricket, exploring new places, and binge-watching movies!<br><br>
 
 
 ## 🌐 Socials:
